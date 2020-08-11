@@ -1,0 +1,36 @@
+html {
+    font-size: 20px;
+    font-family: 'Lemonada', cursive;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #00539F;
+    text-shadow: 4px 7px 10px black;
+  }
+  
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #000000;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #41E820;
+    padding: 0 30px 30px 30px;
+    border: 5px solid black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    width:400px;
+  }
